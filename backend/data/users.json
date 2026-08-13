@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "c2351a56-5142-498f-8f37-957501080ae6",
+    "name": "Demo User",
+    "email": "demo@example.com",
+    "password": "$2a$10$omrl6ELCsf6tztPZBqnFteY5ORbNgJ3FTMHA1qRMEJchi1kBWmx7e",
+    "role": "patient",
+    "isActive": true,
+    "createdAt": "2026-07-23T16:41:52.043Z",
+    "updatedAt": "2026-07-23T16:41:52.044Z"
+  },
+  {
+    "_id": "7d217493-f2ff-493a-9117-b44035230a3f",
+    "name": "Fresh User",
+    "email": "fresh@example.com",
+    "password": "$2a$10$fKpveM5DPhkh90PfLo/BQORAPygRXTOvc8iY/yG4BVXEoIHiAjVPy",
+    "role": "patient",
+    "isActive": true,
+    "createdAt": "2026-07-23T16:42:15.885Z",
+    "updatedAt": "2026-07-23T16:42:15.887Z"
+  },
+  {
+    "_id": "924fb046-0163-4608-8c5f-06af9a398ee0",
+    "name": "sathwik",
+    "email": "naikhemanth881@gmail.com",
+    "password": "$2a$10$PLSN5revcx28xip6ZWRuduJZtfP2hff8ZBI80nNmYSluamkTfzV7G",
+    "role": "patient",
+    "isActive": true,
+    "createdAt": "2026-07-23T16:43:20.162Z",
+    "updatedAt": "2026-07-23T16:43:20.162Z"
+  },
+  {
+    "_id": "ae71feef-39c9-4499-8fcb-af99eeee7ff1",
+    "name": "New User",
+    "email": "newuser@example.com",
+    "password": "$2a$10$DcH6DnqmaFVfU6Y0963xMOlEBx4E.MqssHaAu0UHnreauaYkLEIoa",
+    "role": "patient",
+    "isActive": true,
+    "createdAt": "2026-07-23T16:45:49.171Z",
+    "updatedAt": "2026-07-23T16:45:49.172Z"
+  },
+  {
+    "_id": "210e900c-b31a-4e97-8f91-be801e6818be",
+    "name": "Fresh Account",
+    "email": "freshaccount@example.com",
+    "password": "$2a$10$rFotU63kPu6hFN.Q0fI2ou/iCGOARi8MfJJvLmCJOGiXMtSj4upua",
+    "role": "patient",
+    "isActive": true,
+    "createdAt": "2026-07-23T16:47:25.092Z",
+    "updatedAt": "2026-07-23T16:47:25.092Z"
+  },
+  {
+    "_id": "ddf32234-75c6-4873-85c0-a13d1d083172",
+    "name": "Fresh Account",
+    "email": "freshaccountnew@example.com",
+    "password": "$2a$10$3Sc0Jt8zPwA14ZicEGef5OPeEeZ.G36lq4CeO5leayhC/tOhwt1HS",
+    "role": "patient",
+    "isActive": true,
+    "createdAt": "2026-07-23T17:02:59.577Z",
+    "updatedAt": "2026-07-23T17:02:59.577Z"
+  },
+  {
+    "_id": "cfb8d94f-11cf-4b94-9fcb-39f006ee6058",
+    "name": "sathwik",
+    "email": "sathwik@gmail.com",
+    "password": "$2a$10$SKh1UXUtoEoKMTdg1U77VeLBIEy5p0zAyI546bXQc2NxQTXoVy3Pm",
+    "role": "patient",
+    "isActive": true,
+    "createdAt": "2026-07-26T10:06:37.102Z",
+    "updatedAt": "2026-07-26T10:06:37.102Z"
+  },
+  {
+    "_id": "99b61c45-af37-42ab-baa8-434429ee336e",
+    "name": "Test User",
+    "email": "test@example.com",
+    "password": "$2a$10$7xFxRTfRuyL6oD3MVzxXzOqAphViE4/idJamtU8Cn7Kc4qRXa426a",
+    "role": "patient",
+    "isActive": true,
+    "createdAt": "2026-07-26T10:09:17.701Z",
+    "updatedAt": "2026-07-26T10:09:17.701Z"
+  },
+  {
+    "_id": "8959ac4e-4228-42d0-bf76-d000ab502227",
+    "name": "Test User 2",
+    "email": "test2@example.com",
+    "password": "$2a$10$GI379qeloCR6Y6aHLOqJI.HaKhEcApaF0E1VEUZYqCeM6jbHysL7K",
+    "role": "patient",
+    "isActive": true,
+    "createdAt": "2026-07-26T10:14:02.828Z",
+    "updatedAt": "2026-07-26T10:14:02.828Z"
+  },
+  {
+    "_id": "0486ae41-6b60-4162-946b-dad5981f09f5",
+    "name": "Auto Test",
+    "email": "autotest+20260726@example.com",
+    "password": "$2a$10$.mT9PeyO8/WitQ.QMBJOEuaWc/pg59Wzc46pv919IE4ImM.qcDXFW",
+    "role": "patient",
+    "isActive": true,
+    "createdAt": "2026-07-26T10:18:12.287Z",
+    "updatedAt": "2026-07-26T10:18:12.288Z"
+  },
+  {
+    "_id": "3b5ce04e-899e-4e78-bd30-969833f3672d",
+    "name": "Sathwik",
+    "email": "sat@1234567",
+    "password": "$2a$10$/0WHuz0FQbj4Ff08QSDDzOj2robdkd4lpHO.UU7n1ZTm/GDEkquxW",
+    "role": "patient",
+    "isActive": true,
+    "createdAt": "2026-07-27T10:51:58.297Z",
+    "updatedAt": "2026-07-27T10:51:58.297Z"
+  },
+  {
+    "_id": "85994ee6-cb7c-4959-ae5f-ebd15822e093",
+    "name": "hemanth",
+    "email": "hemanth123@gmail.com",
+    "password": "$2a$10$mlExmn2uoUoAamS3.yA.nORRXEg/KDBpvxeWw87Goed8nBmz/XdmK",
+    "role": "patient",
+    "isActive": true,
+    "createdAt": "2026-07-27T11:34:11.770Z",
+    "updatedAt": "2026-07-27T11:34:11.770Z"
+  },
+  {
+    "_id": "acf503af-7ce0-4645-835f-7a6163b485e0",
+    "name": "naik",
+    "email": "naik@gmail.com",
+    "password": "$2a$10$eIIghzLGZLaXHmTjx8YZbuDC4QCIpOcIqysn9vdjC8ak8nqK5W5FC",
+    "role": "patient",
+    "isActive": true,
+    "createdAt": "2026-07-27T11:36:14.848Z",
+    "updatedAt": "2026-07-27T11:36:14.848Z"
+  },
+  {
+    "_id": "1953c8de-0eb1-4bce-895c-860cbefa6f82",
+    "name": "sathwik",
+    "email": "wik@gmail.com",
+    "password": "$2a$10$hb94FTV6z1Xc/jt3LfSgh.IBrk9DDqdvGXMSdW/r.muFDd7heemzi",
+    "role": "patient",
+    "isActive": true,
+    "createdAt": "2026-07-27T12:02:15.606Z",
+    "updatedAt": "2026-07-27T12:02:15.606Z"
+  },
+  {
+    "_id": "6aa94a34-6152-4f3f-9149-e4d0d0b2c53b",
+    "name": "Test User",
+    "email": "test+1@example.com",
+    "password": "$2a$10$eq.FDskXGRuGDviVb9MML.JwicE7dYFT1oV4G18kcIQi3SUbD9IHa",
+    "role": "patient",
+    "isActive": true,
+    "createdAt": "2026-07-27T13:56:18.393Z",
+    "updatedAt": "2026-07-27T13:56:18.393Z"
+  },
+  {
+    "_id": "ccde8dc5-7684-483a-92af-4673205086a0",
+    "name": "sathwik",
+    "email": "sam@gmail.com",
+    "password": "$2a$10$f7kVUuHfw7L7sZWgcoz7q.PPNJLzcAFSuM8oQevmOxJOR8cVABAQm",
+    "role": "patient",
+    "isActive": true,
+    "createdAt": "2026-07-27T17:00:36.057Z",
+    "updatedAt": "2026-07-27T17:00:36.057Z"
+  },
+  {
+    "_id": "4fd6cdc0-e164-4212-8e7f-d451b70369da",
+    "name": "sathwik",
+    "email": "sat@gmail.com",
+    "password": "$2a$10$hXIMv96Xt6icnoFk5Owge.5vKdFfZFxUaEI8hwSMyzCpTXh1Rf/TC",
+    "role": "patient",
+    "isActive": true,
+    "createdAt": "2026-07-27T17:09:09.664Z",
+    "updatedAt": "2026-07-27T17:09:09.664Z"
+  },
+  {
+    "_id": "a24e065f-1bd0-4477-8d83-a576584c2445",
+    "name": "sathwik",
+    "email": "sathu@gmail.com",
+    "password": "$2a$10$yHmXdoV6WTtPm5YC6hoJI.RdQLb6HjxejIYmtCcJoKVJg0MQ4irC2",
+    "role": "patient",
+    "isActive": true,
+    "createdAt": "2026-07-27T18:02:40.886Z",
+    "updatedAt": "2026-07-27T18:02:40.886Z"
+  }
+]
